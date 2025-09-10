@@ -75,14 +75,7 @@ The dataset used is a public dataset from Kaggle, accessed via IBM's cloud:
 
 ---
 
-##   How to Run
-
-Just run the Python script:
-
-```bash
-python your_script_name.py
- ```
----
+ 
 
 ##   Author
 Zahra
